@@ -13,3 +13,13 @@ The digital museum in this article is a platform for website administrators and 
 The digital museum in this article uses a B/S structure, that is, a browser/server structure. With the continuous advancement of modern operating systems
 At the same time, the function of the browser is becoming more and more powerful, and it can fully assume the role of the client in the traditional client/server structure. The browser/server structure has become an inevitable trend in the development of modern network technology.
 
+
+Interface Display:
+![Main_page](imgs/main_page.png)
+
+![Main_page](imgs/cities.png)
+
+
+
+Database Design:
+![Main_page](imgs/database.png)
